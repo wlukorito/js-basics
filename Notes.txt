@@ -1,0 +1,74 @@
+Next course on Udemy
+--Functional Programming For Beginners With JavaScript
+
+Node: program that includes Google's V8 JavaScript engine  used to run JavaScript
+
+STARTING
+
+variables - cannot start with number, cannot contain space or hyphen, use camelCase, declare on separate lines, meaningful words
+shadowing - varibales of the same name but different scope
+
+variable primitive types: string, number, boolean, null, undefined
+variable reference types: object, Array, Function
+
+default value of variables is undefined 
+
+
+
+static: type of variable cannot change. If declared as string, it remains to be so
+dynamic: type of variable can change at runtime
+
+
+JavaScript Value Types and reference types
+VALUE (Primitives)  REFERENCE 
+---------           -----------
+Number              Object 
+String              Function 
+Boolean             Array
+Symbol
+Undefined 
+Null 
+
+Primitives are copied by value, Objects are copied by reference.
+
+Literals
+Object -> {}
+String -> '', ""
+Boolean -> true, false
+Template -> ``
+
+
+/*
+font-family: 'Google Sans',Roboto,sans-serif;
+*/
+
+
+//Fundamentals for React Developers
+-Arrow Functions
+-Spreading [...] for arrays and {...} for objects
+-Let,Var, Const keywords and scope
+-Destructuring for assignment/cloning
+-Classes
+-Inheritance
+-Modules
+
+//OOP 
+-Encapsulation - group related properties and methods: reduce complexity + increase reusability
+-Abstraction - hide details/complexity of an object and only show the essentials:
+     reduce complexity + isolate impact of change
+-Inheritance - reduce redundancy
+-Polymorphism - refactor ugly switch/if statements
+
+
+alt + Up/Down arrow           --- Move line 
+alt + Shift + Down arrow      --- duplicate line
+
+
+Arrow Function
+-whenever you wanna pass a function as an argument: then use arrow function.
+
+
+
+
+Complete the PaginationHelper class 
+- a utility class helpful for querying paging information related to an array.
