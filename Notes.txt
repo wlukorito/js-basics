@@ -72,3 +72,9 @@ Arrow Function
 
 Complete the PaginationHelper class 
 - a utility class helpful for querying paging information related to an array.
+
+
+
+JavaScript is dynamic:
+let x = 1; //number
+x = 'luko'; //string
